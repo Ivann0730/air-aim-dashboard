@@ -50,7 +50,7 @@ save_logs = st.sidebar.checkbox("Auto-save CSV logs", value=True)
 st.sidebar.markdown("---")
 st.sidebar.subheader("ROIs (x1,y1,x2,y2)")
 
-# Adjusted ROIs for ~1920x1080 eagle-eye terminal view
+# Adjusted ROIs for ~1920x1080 eagle-eye terminal view // SPECIFIC for eagle eye view na videogit add .
 # Left: Check-in, Middle: Central Walkway, Right: Security Area
 default_rois = {
     "Check-in": (0, 250, 650, 1080),
