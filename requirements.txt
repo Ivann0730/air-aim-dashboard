@@ -1,0 +1,11 @@
+streamlit
+ultralytics
+opencv-python-headless
+numpy
+pandas
+altair
+statsmodels
+prophet
+cmdstanpy
+pystan
+opencv-python-headless
