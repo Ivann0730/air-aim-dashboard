@@ -5,6 +5,3 @@ numpy
 pandas
 altair
 statsmodels
-prophet
-cmdstanpy
-pystan
